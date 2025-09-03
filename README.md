@@ -1,3 +1,12 @@
+Creacion de nuestro tcg con react y js
+Añadi React al proyecto y use js, cree la carpeta assets donde metí las cartas que ya tenemos y despues el mockdatabase es la simulacion de como se guardaran despues los objetos en esta, para poder tener este proyecto en tu pc funcionando necesitas descargar unas dependencias, el package.json te permite, haciendole click derecho, descargar dependecias, o instalar, estas mismas que serian la carpeta pesada pero necesaria para que funcione. (gracias al gitignore esta configurado para que no suba esta carpeta porque pesa demasiado, como 70mb y git permite el maximo de 25.)
+
+pasos, descargar este zip, ir a package.json, click derecho, descargar o instalar dependecias, luego en el terminal que se abre, debes poner npm install y cuando se instale todo pones npm start
+
+Acuerdate de tener node.js!
+
+(Esto viene por defecto cuando usas React)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
